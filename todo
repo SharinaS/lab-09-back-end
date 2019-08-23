@@ -1,0 +1,15 @@
+==================
+Notes:
+==================
+require() is an import statement built into node.js - it reads complex files.
+
+
+==================
+TO DO:
+==================
+1. Given no updated code review, do tomorrow's lab on first two sections.
+2. Once code review from Thur appears, update:
+    a. Problem with database and weather, which has data not appearing at all when location queried a second time. 
+    b. Add to eventbrite to make compatible with database
+    c. Update schema for eventbrite
+    d. Use code to prepare for friday's lab
